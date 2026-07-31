@@ -1,0 +1,1 @@
+alert("This page is the only website that provides interface to carsnation36 information and correspondence.") 
